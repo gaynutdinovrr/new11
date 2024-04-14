@@ -37,7 +37,6 @@
   <commonModules>CommonModule.НовыйМодульRamil3</commonModules>
   <commonModules>CommonModule.НовыйМодульRamil4</commonModules>
   <commonModules>CommonModule.НовыйМодульRamil5</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновой</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
