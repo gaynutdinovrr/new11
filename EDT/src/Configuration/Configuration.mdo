@@ -40,6 +40,7 @@
   <commonModules>CommonModule.НовыйМодульЧерновойХран</commonModules>
   <commonModules>CommonModule.НовыйМодульЧистовойХран</commonModules>
   <commonModules>CommonModule.НовыйМодульЧерновойХран10</commonModules>
+  <commonModules>CommonModule.НовыйМодульЧерновойХран11</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
