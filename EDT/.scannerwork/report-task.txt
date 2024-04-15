@@ -2,5 +2,5 @@ projectKey=1C_ERP
 serverUrl=http://localhost:9000
 serverVersion=8.9.10.61524
 dashboardUrl=http://localhost:9000/dashboard?id=1C_ERP
-ceTaskId=AY_2vTW8yC_tSFleGgwK
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AY_2vTW8yC_tSFleGgwK
+ceTaskId=AY_2xBcfyC_tSFleGgwL
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY_2xBcfyC_tSFleGgwL

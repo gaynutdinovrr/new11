@@ -38,15 +38,6 @@
   <commonModules>CommonModule.НовыйМодульRamil4</commonModules>
   <commonModules>CommonModule.НовыйМодульRamil5</commonModules>
   <commonModules>CommonModule.НовыйМодульЧерновойХран</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран1</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран2</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран3</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран4</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран5</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран6</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран7</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран8</commonModules>
-  <commonModules>CommonModule.НовыйМодульЧерновойХран9</commonModules>
   <commonModules>CommonModule.НовыйМодульЧистовойХран</commonModules>
   <commonModules>CommonModule.НовыйМодульЧерновойХран10</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
