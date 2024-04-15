@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4271101c-3c2c-40cd-ab2b-75a2f013f8c7">
+  <name>НовыйМодульЧерновойХран3</name>
+  <synonym>
+    <key>ru</key>
+    <value>Новый модуль черновой хран3</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
