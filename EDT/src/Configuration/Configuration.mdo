@@ -45,6 +45,7 @@
   <commonModules>CommonModule.Kity7</commonModules>
   <commonModules>CommonModule.Ramil5</commonModules>
   <commonModules>CommonModule.ЧерновойХран50</commonModules>
+  <commonModules>CommonModule.ЧерновойХран51</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
