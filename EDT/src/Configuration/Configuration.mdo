@@ -39,6 +39,7 @@
   <commonModules>CommonModule.Kity2</commonModules>
   <commonModules>CommonModule.Kity3</commonModules>
   <commonModules>CommonModule.Kity4</commonModules>
+  <commonModules>CommonModule.Ramil4</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
