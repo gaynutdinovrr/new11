@@ -53,6 +53,7 @@
   <commonModules>CommonModule.Kity300</commonModules>
   <commonModules>CommonModule.Kity400</commonModules>
   <commonModules>CommonModule.Ramil400</commonModules>
+  <commonModules>CommonModule.Ramil500</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
