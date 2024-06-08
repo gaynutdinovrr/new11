@@ -50,6 +50,7 @@
   <commonModules>CommonModule.Kity60</commonModules>
   <commonModules>CommonModule.Kity70</commonModules>
   <commonModules>CommonModule.Ramil70</commonModules>
+  <commonModules>CommonModule.Kity80</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
