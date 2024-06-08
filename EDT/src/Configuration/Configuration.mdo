@@ -44,6 +44,7 @@
   <commonModules>CommonModule.НовыйМодульЧерновойХран4</commonModules>
   <commonModules>CommonModule.НовыйМодульЧерновойХран5</commonModules>
   <commonModules>CommonModule.НовыйМодульЧерновойХран6</commonModules>
+  <commonModules>CommonModule.НовыйМодульЧерновойХран7</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
