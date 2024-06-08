@@ -47,6 +47,7 @@
   <commonModules>CommonModule.ЧерновойХран50</commonModules>
   <commonModules>CommonModule.ЧерновойХран51</commonModules>
   <commonModules>CommonModule.ЧерновойХран52</commonModules>
+  <commonModules>CommonModule.ЧерновойХран53</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
