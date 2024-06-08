@@ -44,11 +44,8 @@
   <commonModules>CommonModule.Kity6</commonModules>
   <commonModules>CommonModule.Kity7</commonModules>
   <commonModules>CommonModule.Ramil5</commonModules>
-  <commonModules>CommonModule.ЧерновойХран50</commonModules>
-  <commonModules>CommonModule.ЧерновойХран51</commonModules>
-  <commonModules>CommonModule.ЧерновойХран52</commonModules>
-  <commonModules>CommonModule.ЧерновойХран53</commonModules>
-  <commonModules>CommonModule.ЧерновойХран54</commonModules>
+  <commonModules>CommonModule.Ramil50</commonModules>
+  <commonModules>CommonModule.Kity50</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
