@@ -46,6 +46,7 @@
   <commonModules>CommonModule.Ramil5</commonModules>
   <commonModules>CommonModule.Ramil50</commonModules>
   <commonModules>CommonModule.Kity50</commonModules>
+  <commonModules>CommonModule.Ramil60</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
