@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bb0437f0-03d4-4e7b-8e00-9ed30869dd3f">
-  <name>ЧерновойХран104</name>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3db6a9f4-4eec-4c4a-a1cd-33d906479e4b">
+  <name>Ramil200</name>
   <synonym>
     <key>ru</key>
-    <value>Черновой хран104</value>
+    <value>Ramil200</value>
   </synonym>
   <server>true</server>
   <externalConnection>true</externalConnection>
