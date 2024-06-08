@@ -48,6 +48,7 @@
   <commonModules>CommonModule.Kity50</commonModules>
   <commonModules>CommonModule.Ramil100</commonModules>
   <commonModules>CommonModule.Kity100</commonModules>
+  <commonModules>CommonModule.ЧерновойХран100</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
