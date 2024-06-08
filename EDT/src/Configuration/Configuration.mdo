@@ -49,6 +49,9 @@
   <commonModules>CommonModule.Ramil100</commonModules>
   <commonModules>CommonModule.Kity100</commonModules>
   <commonModules>CommonModule.ЧерновойХран100</commonModules>
+  <commonModules>CommonModule.ЧерновойХран101</commonModules>
+  <commonModules>CommonModule.ЧерновойХран102</commonModules>
+  <commonModules>CommonModule.ЧерновойХран103</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
