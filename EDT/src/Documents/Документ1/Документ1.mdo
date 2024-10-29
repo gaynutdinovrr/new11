@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29ee85f6-880c-4fb9-9ed8-1cc3f620f44a">
+  <producedTypes>
+    <objectType typeId="6d79c1b7-20f9-42fb-bca4-9bd7e96063b5" valueTypeId="e474bfb8-1af4-4a4b-bfe0-c328a2a54378"/>
+    <refType typeId="0243d1ff-f388-4f53-847e-26d049c8e8ec" valueTypeId="794c1536-72c5-453d-99ab-6eb27d18ab98"/>
+    <selectionType typeId="74550dcb-0bd9-4973-b8f3-10bf09f1fa95" valueTypeId="bf29cce9-8497-4623-94e6-729a6ba7d1eb"/>
+    <listType typeId="14c6cef7-903a-4a7e-be5c-604a6b7c74c1" valueTypeId="bc96a139-8c62-43b4-ad25-6df484d014d6"/>
+    <managerType typeId="42a5917a-4143-4441-b784-2ca1a6739fb6" valueTypeId="cbbdc2b0-f392-47c2-8e67-f7f38d4c8aec"/>
+  </producedTypes>
+  <name>Документ1</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Документ1.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.Документ1.Form.ФормаДокумента</defaultObjectForm>
+  <defaultListForm>Document.Документ1.Form.ФормаСписка</defaultListForm>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <forms uuid="966bec57-1717-4a11-bd84-f9b251b073fe">
+    <name>ФормаДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма документа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="4eb80af1-e1b4-423e-8092-37f670a29e83">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Document>

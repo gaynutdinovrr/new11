@@ -58,4 +58,5 @@
   <catalogs>Catalog.Справочник3</catalogs>
   <catalogs>Catalog.Справочник4</catalogs>
   <catalogs>Catalog.Справочник5</catalogs>
+  <documents>Document.Документ1</documents>
 </mdclass:Configuration>
