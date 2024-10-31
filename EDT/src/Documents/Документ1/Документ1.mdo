@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29ee85f6-880c-4fb9-9ed8-1cc3f620f44a">
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29ee85f6-880c-4fb9-9ed8-1cc3f620f44a">
   <producedTypes>
     <objectType typeId="6d79c1b7-20f9-42fb-bca4-9bd7e96063b5" valueTypeId="e474bfb8-1af4-4a4b-bfe0-c328a2a54378"/>
     <refType typeId="0243d1ff-f388-4f53-847e-26d049c8e8ec" valueTypeId="794c1536-72c5-453d-99ab-6eb27d18ab98"/>
@@ -23,6 +23,26 @@
   <defaultListForm>Document.Документ1.Form.ФормаСписка</defaultListForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="aa53126d-ed45-461d-befa-87071449af79">
+    <name>НовыйРеквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новый реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="966bec57-1717-4a11-bd84-f9b251b073fe">
     <name>ФормаДокумента</name>
     <synonym>
@@ -41,4 +61,15 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <tabularSections uuid="51aa1c08-7a9a-4d97-bd63-0ce19282700a">
+    <producedTypes>
+      <objectType typeId="1af3d2ae-4dd5-4c3f-b86c-043178039ea8" valueTypeId="5fc4c0f9-1325-4683-8255-eb1bb8047264"/>
+      <rowType typeId="e6756f41-133a-4209-a590-506b3804fb93" valueTypeId="5ba74343-c627-4b92-861e-09e3a07e6403"/>
+    </producedTypes>
+    <name>НоваяТЧ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая ТЧ</value>
+    </synonym>
+  </tabularSections>
 </mdclass:Document>
