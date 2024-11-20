@@ -30,7 +30,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <commonModules>CommonModule.Ramil1</commonModules>
   <commonModules>CommonModule.Ramil2</commonModules>
   <commonModules>CommonModule.Ramil3</commonModules>
   <commonModules>CommonModule.Kity</commonModules>
@@ -52,6 +51,7 @@
   <commonModules>CommonModule.ЧистовойХран1000</commonModules>
   <commonModules>CommonModule.Ramil201</commonModules>
   <commonModules>CommonModule.ОбщийМодуль1</commonModules>
+  <commonModules>CommonModule.ОбщийМодуль2</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
