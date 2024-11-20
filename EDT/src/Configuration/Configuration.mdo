@@ -50,8 +50,8 @@
   <commonModules>CommonModule.Kity200</commonModules>
   <commonModules>CommonModule.ЧистовойХран1000</commonModules>
   <commonModules>CommonModule.Ramil201</commonModules>
-  <commonModules>CommonModule.ОбщийМодуль1</commonModules>
   <commonModules>CommonModule.ОбщийМодуль2</commonModules>
+  <commonModules>CommonModule.ОбщийМодуль3</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
