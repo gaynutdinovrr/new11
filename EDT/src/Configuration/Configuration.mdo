@@ -52,6 +52,7 @@
   <commonModules>CommonModule.Ramil201</commonModules>
   <commonModules>CommonModule.ОбщийМодуль2</commonModules>
   <commonModules>CommonModule.ОбщийМодуль3</commonModules>
+  <commonModules>CommonModule.Ramil6</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
