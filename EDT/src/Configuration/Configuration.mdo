@@ -49,6 +49,7 @@
   <commonModules>CommonModule.Ramil200</commonModules>
   <commonModules>CommonModule.Kity200</commonModules>
   <commonModules>CommonModule.Ramil201</commonModules>
+  <commonModules>CommonModule.Ramil1000</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
